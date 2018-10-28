@@ -1,0 +1,6 @@
+CAD(Computer aid design)
+Semi-automated poster/banner layout
+Poster Design
+Computer vision
+Opencv
+// Deep learning
